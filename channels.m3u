@@ -1,3 +1,197 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://placehold.co/200x200.png", Channel 1
-http://your-live-link-here.m3u8
+[15/06/2026 23:48] Zhiyar: #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="ZNAR KIDS" tvg-logo="http://widget.ottplayer.tv/upictures/f9777e7f-4440-40f3-92c1-d3b37d1f4119.png" group-title="منداڵان",ZNAR KIDS
+https://live20.bozztv.com/giatv/giatv-znarkids/znarkids/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DniaTV" tvg-logo="http://widget.ottplayer.tv/upictures/4f94ddf8-0aae-4238-8713-23cb19211ec7.png" group-title="ئایینی",DniaTV
+https://live20.bozztv.com/giatv/giatv-DniaTV/DniaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HormzyarHD" tvg-logo="http://widget.ottplayer.tv/upictures/48c06032-5d3e-43cb-9a42-f118c4f22856.png" group-title="کات بەسەربردن",HormzyarHD
+http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HALABJA TV" tvg-logo="https://i.postimg.cc/tCxx5xpy/file_000000006f8c7246a51e643c3e396816.png" group-title="کات بەسەربردن",HALABJA TV
+http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="wallatv" tvg-logo="http://widget.ottplayer.tv/upictures/5a8d5a5f-323b-46fa-b837-240146768efc.png" group-title="کات بەسەربردن",wallatv
+https://live20.bozztv.com/giatv/giatv-wallatv88/wallatv88/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BahraHD" tvg-logo="http://widget.ottplayer.tv/upictures/01f264a5-ac1e-45bd-a3a6-31b5774c5bba.png" group-title="کات بەسەربردن",BahraHD
+http://51.89.152.180/live/BahraHD/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="gewher-tv" tvg-logo="https://i.postimg.cc/8DMkkWPB/gawhar.png" group-title="کات بەسەربردن",gewher-tv
+https://cdn.karwan.tv/gewher-tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ONE Kids" tvg-logo="https://i.postimg.cc/SsWGkjYy/photo-2026-06-07-19-02-19.jpg" group-title="منداڵان",ONE Kids
+http://217.76.62.187/hls/kids.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="gewher-KIDS" tvg-logo="http://widget.ottplayer.tv/upictures/d5a63e5b-a77e-4e27-aad7-22ceff876cbc.png" group-title="منداڵان",gewher-KIDS
+https://cdn.karwan.tv/gewher-kids/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/zXvf1Rjn/file-00000000b434720ab7d2af207e0083c1.png" group-title="هەواڵ",NRT HD
+https://hlspackager.akamaized.net/live/DB/NRT_HD/HLS/NRT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KURDISTAN TV HD" tvg-logo="https://i.postimg.cc/rwjCpwYt/file-00000000f44871fd8a77ef412360d37d.png" group-title="هەواڵ",KURDISTAN TV HD
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1790905875_b1700000_sleng_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NRT SPORT   كأس العالم" tvg-logo="https://i.postimg.cc/ydxwrpWS/file_000000000b7c72439060556e8e891f76.png" group-title="وەرزش",NRT SPORT   كأس العالم
+https://www.krdtv.online/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2F9nxkhuWIsczBsbd6odezjeELjZ0c9wZm6iICS3qs88o5LDx2SCHs79-Q9_NxguR4tX5Ur1U1fwz4qt7zgcB5tg%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fdynamic_delta.m3u8%3Ftype%3Dlive
+
+#EXTINF:-1 tvg-id="" tvg-name="UHD LIVE  كأس العالم" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.l2z_kNr_fDo6YYW7tRKAFgHaDt?pid=Api&h=220&P=0" group-title="وەرزش",UHD LIVE  كأس العالم
+https://live-aburayhan1101.telewebion.ir/ek/faratar/live/1440p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX  كأس العالم" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEW_beIN-SPORTS-MAX-01.png" group-title="وەرزش",BEIN MAX  كأس العالم
+https://www.krdtv.online/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2F2L3g1Lwsn-XNV0cRb31CaTwp8OghoeK8WbCkwH9bFDoprbw3z0epmr3MThmLdulDA4VxsvKJ6HoWMoPJJZX-Bw%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZa
+[15/06/2026 23:48] Zhiyar: KYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4%2Fdynamic_delta.m3u8%3Ftype%3Dlive
+
+#EXTINF:-1 tvg-id="" tvg-name="AVA SPORT  كأس العالم" tvg-logo="https://i.postimg.cc/XJqTD1XK/file_000000003aa8724382504ad32158ca88.png" group-title="وەرزش",AVA SPORT  كأس العالم
+https://www.krdtv.online/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FW4sH8e2CkFPS8wtiwb1glvfaB0dliVQCI1zMTO6b1Bc2xu31eCxpr-uV1WNHcQpG5H1jbBuXDJwArokN9Kt7AA%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fdynamic_delta.m3u8%3Ftype%3Dlive
+
+#EXTINF:-1 tvg-id="" tvg-name="ZAGROS TV HD" tvg-logo="https://i.postimg.cc/FRQZmkW5/ZG.png" group-title="هەواڵ",ZAGROS TV HD
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w469474030_b1700000_sleng_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ALWAN SPORT 4K" tvg-logo="https://up6.cc/2025/08/175619242952131.png" group-title="وەرزش",ALWAN SPORT 4K
+https://www.krdtv.online/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FDtH_h3LfHlE33FTcavw62OwTcNnfETIpPZzWkXXmjLzNHtYjjliVpXez2D76GYc5bCqemDHLfa-4TQ61jMgxrg%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fdynamic_playlist.m3u8%3Ftype%3Dlive
+
+#EXTINF:-1 tvg-id="" tvg-name="DUHOK-TV HD" tvg-logo="https://i.postimg.cc/CYNdhrgr/DUHOK-1.png" group-title="هەواڵ",DUHOK-TV HD
+https://duhok.badinan.xyz/live/DuhokTV/chunklist_w1186544168.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 8 HD" tvg-logo="https://i.postimg.cc/6ptfwvcz/file_000000004f4071fd8e7034c9a082aa7c.png" group-title="هەواڵ",Channel 8 HD
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BARIN QURAN ۞" tvg-logo="https://i.postimg.cc/1P5QSGFY/BARINQ.png" group-title="ئایینی",BARIN QURAN ۞
+http://baskhd.ddns.net:40/live/QURANHDTV/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IMK QURAN HD ۞" tvg-logo="https://i.postimg.cc/w6hM1JNc/IMK.png" group-title="ئایینی",IMK QURAN HD ۞
+http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EMAN ۞" tvg-logo="https://i.postimg.cc/yB4Bc8M3/eman.png" group-title="ئایینی",EMAN ۞
+http://avrstream.com:1935/live/emantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LD SPORT CHKER" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.8i5RR7I9G9FZPdSs1SJnzwHaFi?pid=Api&h=220&P=0" group-title="وەرزش",LD SPORT CHKER
+https://www.krdtv.online/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FMlXwEl5t-eDfCzsv0tJ8ZSHEPsns5td2y4r9aj5-8c0RIfNa73BqoG_-woV8GoZ3jbjI0tuMXjOUZNn1wOCKYA%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4%2Fdynamic_delta.m3u8%3Ftype%3Dlive
+
+#EXTINF:-1 tvg-id="" tvg-name="ESRA TV 1 ۞" tvg-logo="https://i.postimg.cc/6tNVZW4B/ESRA.jpg" group-title="ئایینی",ESRA TV 1 ۞
+https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESRA TV 2 ۞" tvg-logo="https://i.postimg.cc/9VZb67Kp/essra2.png" group-title="ئایینی",ESRA TV 2 ۞
+https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESRA Quran HD ۞" tvg-logo="https://i.postimg.cc/HdBJLdQZ/quranes-1.png" group-title="ئایینی",ESRA Quran HD ۞
+https://live20.bozztv.com/giatv/giatv-esraquran_kamalblbas/esraquran_kamalblbas/chunks.m3u8
+[15/06/2026 23:48] Zhiyar: #EXTINF:-1 tvg-id="" tvg-name="SPIQURANHD ۞" tvg-logo="https://i.postimg.cc/VfgjzVjy/QURAN.png" group-title="ئایینی",SPIQURANHD ۞
+https://live20.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="shan quran ۞" tvg-logo="https://i.postimg.cc/Gc5XVBZ9/SHNAQ.png" group-title="ئایینی",shan quran ۞
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BANGAWAZ ۞-Badinan" tvg-logo="https://i.postimg.cc/8phZPXcT/bangxwaz.png" group-title="ئایینی",BANGAWAZ ۞-Badinan
+http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AVA SPORT HD" tvg-logo="https://i.postimg.cc/XJqTD1XK/file_000000003aa8724382504ad32158ca88.png" group-title="وەرزش",AVA SPORT HD
+https://183.bozztv.com/giatv/giatv-avasoport/avasoport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NRT SPORT HD" tvg-logo="https://i.postimg.cc/ydxwrpWS/file_000000000b7c72439060556e8e891f76.png" group-title="وەرزش",NRT SPORT HD
+https://183.bozztv.com/giatv/giatv-nrtsportkrdtv/nrtsportkrdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="زيكرى بەیانیان پێشەوا قادر ۞" tvg-logo="https://i.postimg.cc/Pr4c8rcY/hq720-2.avif" group-title="ئایینی",زيكرى بەیانیان پێشەوا قادر ۞
+https://dl23.mp4.ir/video/2025/8/321750-455863615/m3u8/1080p/out.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="کەناڵی ئامۆژگاری ۞" tvg-logo="https://i.postimg.cc/Dvc3yP7n/amojgari.png" group-title="ئایینی",کەناڵی ئامۆژگاری ۞
+https://app-live.org/live/3268334b/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ئەکادیمیای ئامۆژگاری ۞" tvg-logo="http://widget.ottplayer.tv/upictures/79427a0f-8af3-4e72-b60f-890507bfd289.png" group-title="ئایینی",ئەکادیمیای ئامۆژگاری ۞
+https://app-live.org/live/a267c1b3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SHNA TV QURAN ۞" tvg-logo="https://i.postimg.cc/Gc5XVBZ9/SHNAQ.png" group-title="ئایینی",SHNA TV QURAN ۞
+http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BANGAWAZ ۞" tvg-logo="https://i.postimg.cc/HHw4Qmq7/bang.png" group-title="ئایینی",BANGAWAZ ۞
+http://baskhd.ddns.net:40/live/bangawaztv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Minara TV ۞" tvg-logo="https://i.postimg.cc/Qhn3kMt8/minara-1.png" group-title="ئایینی",Minara TV ۞
+http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SOZ QURAN ۞" tvg-logo="https://i.postimg.cc/xfDMt1tB/SOZ.png" group-title="ئایینی",SOZ QURAN ۞
+http://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ONE Plus" tvg-logo="https://i.postimg.cc/W3R7B03J/photo-2026-06-07-19-01-54.jpg" group-title="ئایینی",ONE Plus
+http://217.76.62.187/hls/kurdiplus.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RASAN HD" tvg-logo="https://i.postimg.cc/M6MLzZMW/Rasan-1.png" group-title="کات بەسەربردن",RASAN HD
+http://krdtvappfree.ddns.net/rasan/video.m3u8?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes
+
+#EXTINF:-1 tvg-id="" tvg-name="SPI TV" tvg-logo="https://i.postimg.cc/8zcXPNJq/Pics-Art-25-08-01-20-03-35-104.png" group-title="کات بەسەربردن",SPI TV
+https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NaqshiMedia" tvg-logo="https://i.postimg.cc/Yp4ChZtr/NAQS.png" group-title="کات بەسەربردن",NaqshiMedia
+http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NRT 2" tvg-logo="https://i.postimg.cc/vZbg78h8/file_0000000055b871f8a0153240d85b9b03.png" group-title="کات بەسەربردن",NRT 2
+http://109.71.252.138/Nrt2/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes
+
+#EXTINF:-1 tvg-id="" tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/VvHSzXMb/Krd_TV_logo_with_gold_star.png" group-title="ئایینی",NRT 4
+https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
+[15/06/2026 23:48] Zhiyar: #EXTINF:-1 tvg-id="" tvg-name="Soran Entertainment" tvg-logo="https://i.postimg.cc/Y9Tw96J5/Pics-Art-25-08-01-16-59-38-543.png" group-title="کات بەسەربردن",Soran Entertainment
+http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KURDMAX سۆرانی" tvg-logo="https://i.postimg.cc/2zM3CTcM/KURDMAX.png" group-title="کات بەسەربردن",KURDMAX سۆرانی
+http://109.71.252.138/Kurdmax/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes
+
+#EXTINF:-1 tvg-id="" tvg-name="KURDMAX کرمانجی" tvg-logo="https://i.postimg.cc/2zM3CTcM/KURDMAX.png" group-title="کات بەسەربردن",KURDMAX کرمانجی
+http://109.71.252.138/Kurdmax/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes
+
+#EXTINF:-1 tvg-id="" tvg-name="KURDMAX SHOW سۆرانی" tvg-logo="https://i.postimg.cc/vQTV2y7W/show.png" group-title=" ",KURDMAX SHOW سۆرانی
+http://167.233.107.19:8080/kurdmax-proxy/app/kurdmax-sorani1/ts:playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KURDMAX SHOW کرمانجی" tvg-logo="https://i.postimg.cc/vQTV2y7W/show.png" group-title=" ",KURDMAX SHOW کرمانجی
+http://167.233.107.19:8080/kurdmax-proxy/app/kurdmax-kurmanji2/ts:playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NEW LINE 1" tvg-logo="https://i.postimg.cc/RmDDphf2/KIDS-1.png" group-title="کات بەسەربردن",NEW LINE 1
+http://109.71.252.138/Newline8k1/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes
+
+#EXTINF:-1 tvg-id="" tvg-name="NEW LINE 2" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="کات بەسەربردن",NEW LINE 2
+http://109.71.252.138/Newinw8k2/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes
+
+#EXTINF:-1 tvg-id="" tvg-name="Newline Bollywood" tvg-logo="https://i.postimg.cc/433YM8jp/file_000000008df4720aa38c04c557b901d2.png" group-title="کات بەسەربردن",Newline Bollywood
+http://109.71.252.138/newlinebloeydo/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ZED TV" tvg-logo="https://i.postimg.cc/KY5KkKGD/ZED_HD_Krd_TV_logo_design.png" group-title="کات بەسەربردن",ZED TV
+http://109.71.252.138/Zedtv/video.m3u8?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes
+
+#EXTINF:-1 tvg-id="" tvg-name="ZED TV PLUS" tvg-logo="https://i.postimg.cc/ZqmB5PSd/Modern_logo_design_with_bold_colors.png" group-title="کات بەسەربردن",ZED TV PLUS
+http://109.71.252.138/Zedplus/video.m3u8?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes
+
+#EXTINF:-1 tvg-id="" tvg-name="Speda Drama" tvg-logo="https://i.postimg.cc/fL2jptHT/Silver_logo_with_Arabic_text.png" group-title="کات بەسەربردن",Speda Drama
+http://109.71.252.138/Speddaram4kk/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes
+
+#EXTINF:-1 tvg-id="" tvg-name="BAHA ENTERTAINMENT" tvg-logo="https://i.postimg.cc/Sqdk22x2/baha.png" group-title="کات بەسەربردن",BAHA ENTERTAINMENT
+http://baskhd.ddns.net:40/live/baskhd/yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BARIN MOVIES" tvg-logo="https://i.postimg.cc/gzZc6gR6/Barinm.png" group-title="کات بەسەربردن",BARIN MOVIES
+http://51.89.152.180:80/live/barinmovieSHD/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KURDSAT NEWS" tvg-logo="https://i.postimg.cc/T30qP3Hh/file_00000000601471fdbdc5483d8082b948.png" group-title="هەواڵ",KURDSAT NEWS
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BASK HD" tvg-logo="https://i.postimg.cc/CxFf6zdt/photo-2026-02-16-06-41-54.jpg" group-title="ناوخۆیی",BASK HD
+http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C0vSLd4h/KOMAL.png" group-title="", 
+http://krdtvappfree.ddns.net/komal/mpegts?token=yusfstore3434fyusfstore3434yusfstore3434yusfstore3434yusfstore3434fwestrqwerwefwefrwefwefwes
+[15/06/2026 23:48] Zhiyar: #EXTINF:-1 tvg-id="" tvg-name="shnatv" tvg-logo="https://i.postimg.cc/5xMj7y1t/shna.png" group-title="ناوخۆیی",shnatv
+http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ZAGROS TV" tvg-logo="https://i.postimg.cc/WpMq857p/Pics-Art-25-09-09-14-49-31-102.png" group-title="ناوخۆیی",ZAGROS TV
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w469474030_b1700000_sleng_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KHAK TV" tvg-logo="https://i.postimg.cc/44C801bx/khak.png" group-title="ناوخۆیی",KHAK TV
+http://bblserver.ddns.net:1935/stream/khakhd/hawezhd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DUHOK-TV" tvg-logo="https://i.postimg.cc/CYNdhrgr/DUHOK-1.png" group-title="ناوخۆیی",DUHOK-TV
+http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sahar Kurdi" tvg-logo="https://i.postimg.cc/9XL22QVG/4bk1a355c172782htx-800-C450.jpg" group-title="ناوخۆیی",Sahar Kurdi
+https://fn1-cdn.sepehrtv.org/securelive3/saharkurdsd/saharkurdsd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="WARR TV" tvg-logo="https://i.postimg.cc/jKbDVzn1/WAAR.png" group-title="ناوخۆیی",WARR TV
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u
