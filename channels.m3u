@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://placehold.co/200x200.png", Channel 1
+http://your-live-link-here.m3u8
